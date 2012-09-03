@@ -1,0 +1,315 @@
+body {
+	margin: 0;
+	background-color: #FFFFE7;
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 9pt;
+}
+#wrapper {
+	position: relative;
+	width: 900px;
+	left: 50%;
+	margin-left: -450px;
+	border: 1px solid #EEEEEE;
+	/*background-color: #FFCC66;*/
+	background-color: #FFFFFF;
+}
+#branding {
+	color: brown;
+	/*background-color: #CC9900;*/
+	background-color: #FFFFFF;
+	height: 100px;
+	position: relative;
+}
+#leftnav {
+	width: 210px;
+	float: left;
+	padding-left: 4px;
+}
+#main {
+	width: 490px;
+	float: left;
+	margin-left: 3px;
+	padding-left: 4px;
+	min-height: 450px;
+}
+#right {
+	width: 170px;
+	float: right;
+	padding-right: 4px;
+}
+#footer {
+	clear: both;
+	background-color: #665cee;
+}
+#footer .inner {
+	background-image: url('../images/grad02-2.png');
+	padding: 0 6px;
+}
+#footer a {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+#footer a:hover {
+	color: yellow;
+}
+#branding #brandlogo
+{
+	position: absolute;
+	left: 0;
+	top: 5px;
+}
+#branding #topnav 
+{
+	position: absolute;
+	top: 70px;
+	left: 0;
+}
+.nodisplay {
+	display: none;
+}
+.banner {
+}
+.banner img, .banner embed {
+	margin-top: 6px;
+}
+input#keyword {
+	margin-top: 0;
+	padding-top: 0;
+	width: 100px;
+}
+#cartwidget
+{
+	position: absolute;
+	right: 0;
+	/*top: 9px;*/
+	top: 12px;
+	border: 1px solid #CCCCCC;
+	color: #000000;
+	width: 130px;
+	height: 44px;
+}
+#carticon {
+	position: absolute;
+	left:0;
+	top: 0;
+}
+#carticon, #carticon a:visited {color: #000000;}
+p {
+	margin: 3px 0 3px 6px;
+}
+#cartitems {
+	position: absolute;
+	left: 50px;
+	top: 15px;
+	width: 160px;
+}
+#cartwidget, #cartitems { 
+	display: inline-block;
+	vertical-align: text-top; 
+}
+#cartwidget {
+	display: none;
+	text-align: bottom;
+}
+.header1 {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 10pt;
+	font-weight: bold;
+	background-image: url('../images/grad01-2.png');
+	background-repeat: repeat-x;
+	border: 1px solid #DDDDDD;
+	padding: 2px;
+	padding-left: 6px;
+	margin: 6px 0 0 0;
+	color: #0c147e;
+}
+/*
+.headerBrand {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 24pt;
+	font-weight: bold;
+	padding: 8px 2px;
+	padding-left: 6px;
+	margin: 0;
+}
+*/
+ul.navlinks {
+	background-color: #EFEFEF;
+	border: 1px solid #DEDEDE;
+	display: none;
+}
+ul.navlinks , ul.navlinks ul {
+	list-style-type: none;
+	padding: 0;
+	padding-left: 3px;
+}
+ul.navlinks li {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 9pt;
+	margin: 2px;
+	width: 85%;
+}
+ul.navlinks li a {
+	display: block;
+	padding: 1px;
+	color: black;
+	text-decoration: none;
+	border: 1px solid #DDDDDD;
+	background-color: #DDDDDD;
+}
+ul.navlinks li a:hover {
+	background-color: #CCCCCC;
+	border: 1px solid #AAAAAA;
+}
+ul.navbar {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	float: left;
+	width: 900px;
+	background-image: url('../images/grad03-2.png');
+	background-repeat: repeat-x;
+	border-top: 1px solid #777777;
+	border-bottom: 1px solid #777777;
+}
+ul.navbar li {
+	float: left;
+}
+ul.navbar li a {
+	width: 120px;
+	display: block;
+	text-decoration: none;
+	background-color: #DDDDDD;
+	border-left: 1px solid #777777;
+	font-size: 12pt;
+	font-weight: bold;
+	font-family: Tahoma, Arial, sans-serif;
+	text-align: center;
+	background-image: url('../images/grad03-2.png');
+	background-repeat: repeat-x;
+	vertical-align: middle;
+	color: #0c147e;
+	line-height:24px;
+}
+ul.navbar li a.right {
+	border-right: 1px solid #777777;
+}
+ul.navbar li a:hover {
+	background-color: #FFFFFF;
+	background-image: url('../images/grad02-2.png');
+	color: #FFFFFF;
+}
+label.navbar {
+	color: #0c147e;
+	padding: 0 6px;
+}
+a img {
+	border: 0;
+	background-color: transparent;
+}
+ul.navbar li input.inline {
+	display: inline;
+	width: auto;
+	padding-top: 2px;
+	height: 18px;
+}
+div.center {
+	text-align: center;
+}
+div.product-box {
+	border: 1px solid #DDDDDD;
+	padding: 3px;
+	margin: 3px 0;
+	height:79px;
+}
+div.product-box:hover {
+	border-color: #BBBBBB;
+	background-image: url('../images/prodgrad.png');
+	background-repeat: repeat-x;
+	background-height:100%;
+	padding: 3px 2px 2px 3px;
+	border-width: 1px 2px 2px 1px;
+}
+div.product-box img {
+	float: left;
+	padding-right: 6px;
+	width: 56px;
+}
+div.product-box span {
+	float: right;
+	width: 414px;
+	padding-bottom: 3px;
+}
+div.product-box span.prodtitle {
+	font-weight: bold;
+}
+div.product-box span.image {
+	float: none;
+	width: auto;
+	padding: 0;
+}
+div.clear {
+	clear: both;
+	padding-bottom: 12px;
+}
+a.button, ul.navbar li input.button {
+   font-size:10px;
+   font-family:Tahoma,sans-serif;
+   color: #0c147e;
+   background-color: #FFCC66;
+   background-color: #d3d2e8;
+   text-decoration: none;
+   width:68px;
+   border: 2px solid #0c147e;
+   padding: 2px;
+   display: inline;
+}
+ul.navbar li input.button {
+	width: 30px;
+	cursor: pointer;
+}
+a.button:hover, input.button:hover {
+	border: 2px solid #FF7744;
+	background-color: #AA7744;
+	color: #FFFFFF;
+}
+.formlabel {
+	display: inline-block;
+	width: 100px;
+}
+.alert {
+	color: red;
+}
+.buttons a {
+	margin-right: 6px;
+}
+form {
+	margin: 0;
+	padding: 0;
+}
+div.banner200 {
+	display: inline-block;
+	background-image: url('../images/banner200_empty.png');
+	background-repeat: no-repeat;
+	color: white;
+	text-align: center;
+	font-family: Arial, sans-serif;
+	font-size: 18pt;
+	width: 195px;
+	height: 50px;
+}
+div.banner200 span {
+	padding-left: 12px;
+	padding-top: 13px;
+	display: inline-block;
+}
+.test {
+	display: none;
+}
+div.facet {
+	overflow: hidden;
+}
+div.facet.long {
+	overflow: auto;
+	height: 90px;
+}

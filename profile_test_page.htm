@@ -1,0 +1,54 @@
+<html>
+<head>
+	<script type="text/javascript" src="http://store.nuttle.net/js/jquery-1.4.4.min.js"></script>
+	<script src="http://nuthatch.nuttle.net/js/nuthatch.core-1.0.js"></script>
+	<script src="http://nuthatch.nuttle.net/js/nuthatch.http-1.0.js"></script>
+	<script type="text/javascript" src="http://store.nuttle.net/js/mbox.js"></script>
+	<script type="text/javascript">
+		jQuery(document).ready(function(){
+			mboxDefine("mbox", "mbox");
+			jQuery(".go").click(function(evt){
+				mboxUpdate("mbox", "cookie_xp1=" + encodeURIComponent(jQuery("#mboxparam").val()));
+				setTimeout(function(){
+					location.href = location.href;
+				},1000);
+			});
+			var n = NUTHATCH();
+			var s = n.getHttpParameterValue("cookie_xp");
+			if(s)
+			{
+				console.log(s);
+				mboxUpdate("mbox", "cookie_xp1=" + encodeURIComponent(s));
+				console.log("Done");
+			}
+		});
+	</script>
+</head>
+<body>
+<div class="mboxDefault"></div>
+<script>
+mboxCreate("test", "cookie_xp1=ssv_var2%3DE&ssv_var11%3D2150");
+</script>
+<div>
+	<select name="mboxparam" id="mboxparam">
+		<option value="ssv_var2%3DE&ssv_var11%3D2150">#1: ssv_var2%3DE and ssv_var11%3D2150</option>
+		<option value="ssv_var2%3DE&ssv_var11%3D2%2C150">#1: ssv_var2%3DE and ssv_var11%3D2%2C150</option>
+		<option value="ssv_var2%3DE&ssv_var11%3D2,150">#1: ssv_var2%3DE and ssv_var11%3D2,150</option>
+		<option value="ssv_var2%3DE&ssv_var11%3D2152">#1: ssv_var2%3DE and ssv_var11%3D2152</option>
+		<option value="ssv_var3%3DY&ssv_var10%3D3049">#2: ssv_var3%3DY and ssv_var10%3D3049</option>
+		<option value="ssv_var3%3Dtrue&ssv_var10%3D3048">#2: ssv_var3%3Dtrue and ssv_var10%3D3048</option>
+		<option value="ssv_var3%3DY&ssv_var10%3D3,051">#2: ssv_var3%3DY and ssv_var10%3D3,051</option>
+		<option value="ssv_var3%3DY&ssv_var10%3D3%2C050">#2: ssv_var3%3DY and ssv_var10%3D3%2C050</option>
+		<option value="ssv_var3%3DN&ssv_var2%3DN">#3: ssv_var3%3DN and ssv_var2%3DN</option>
+		<option value="ssv_var3%3Dfalse&ssv_var2%3DN">#3: ssv_var3%3Dfalse and ssv_var2%3DN</option>
+		<option value="something_else">#4: something_else</option>
+	</select>
+</div>
+<div>
+	<button class="go">Go</button>
+</div>
+<div id="mbox"></div>
+<form action="profile_test_page.htm">
+</form>
+</body>
+</html>

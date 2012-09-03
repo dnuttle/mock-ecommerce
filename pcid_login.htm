@@ -1,0 +1,39 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<script type="text/javascript" src="js/mbox_nuttle_pcid_enabled.js"></script>
+	<script type="text/javascript">
+		var pcid = '01234567890123456789012345678901';
+		var curr = mboxFactories.get('default').getPCId().getId();
+		//console.log("Current PCID:");
+		//console.log(curr);
+		//mboxFactories.get('default').getSessionId().forceId(pcid);
+		//mboxFactories.get('default').getPCId().forceId(pcid);
+		if(curr!=pcid){
+			mboxFactories.get('default').forcePCId(pcid);
+			console.log("Cookies after forcing PCID:");
+			console.log(document.cookie);
+		}
+		/*
+		jQuery(document).ready(function(){
+			jQuery("#originalPC").text(curr);
+			jQuery("#newPC").text(pcid);
+			console.log("Cookies after jQuery ready event:");
+			console.log(document.cookie);
+		});
+		*/
+	</script>
+</head>
+<body>
+<p id="originalPC"></p>
+<p id="newPC"></p>
+<div class="mboxDefault">
+<script>
+	console.log("before mbox call:");
+	console.log(document.cookie);
+	mboxCreate("global");
+</script>
+</div>
+</body>
+</html>

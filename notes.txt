@@ -1,0 +1,20 @@
+Checkout process
+
+1. Cart
+2. Billing/Shipping
+3. Confirmation
+
+Signup process
+
+1. Enter email address
+2. Confirmation
+
+
+Pages:
+home
+category
+product
+search results
+cart
+billing info
+order confirm

@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="banners.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3995">
+      <stop
+         style="stop-color:#c96a30;stop-opacity:0.52678573;"
+         offset="0"
+         id="stop3997" />
+      <stop
+         id="stop4003"
+         offset="0.0826294"
+         style="stop-color:#c9662a;stop-opacity:0.83035713;" />
+      <stop
+         id="stop3999"
+         offset="0.86578435"
+         style="stop-color:#c96225;stop-opacity:0.9464286;" />
+      <stop
+         id="stop4001"
+         offset="1"
+         style="stop-color:#e3c1ad;stop-opacity:0.90178573;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4145">
+      <stop
+         id="stop4147"
+         offset="0"
+         style="stop-color:#c96a30;stop-opacity:0.52678573;" />
+      <stop
+         style="stop-color:#c95b1b;stop-opacity:0.90178573;"
+         offset="1"
+         id="stop4151" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4131"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#5656f9;stop-opacity:1;"
+         offset="0"
+         id="stop4133" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4145"
+       id="linearGradient4171"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.7135012,0,0,1.0000611,-5.8128862,-17.011655)"
+       spreadMethod="pad"
+       x1="114.39593"
+       y1="86.362183"
+       x2="117.16785"
+       y2="157.36218" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4145-5"
+       id="linearGradient4171-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.72152111,0,0,1,-6.539074,-17)"
+       spreadMethod="pad"
+       x1="114.39593"
+       y1="86.362183"
+       x2="117.16785"
+       y2="157.36218" />
+    <linearGradient
+       id="linearGradient4145-5">
+      <stop
+         id="stop4147-3"
+         offset="0"
+         style="stop-color:#c96a30;stop-opacity:0.52678573;" />
+      <stop
+         style="stop-color:#c95b1b;stop-opacity:0.90178573;"
+         offset="1"
+         id="stop4151-2" />
+    </linearGradient>
+    <linearGradient
+       y2="157.36218"
+       x2="117.16785"
+       y1="86.362183"
+       x1="114.39593"
+       spreadMethod="pad"
+       gradientTransform="matrix(0.71350127,0,0,1.000061,101.59024,-16.583083)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4191"
+       xlink:href="#linearGradient4145-5"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="157.36218"
+       x2="117.16785"
+       y1="86.362183"
+       x1="114.39593"
+       spreadMethod="pad"
+       gradientTransform="matrix(0.71350127,0,0,1.000061,101.59024,-16.583083)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4191-3"
+       xlink:href="#linearGradient4145-5-7"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4145-5-7">
+      <stop
+         id="stop4147-3-3"
+         offset="0"
+         style="stop-color:#c96a30;stop-opacity:0.52678573;" />
+      <stop
+         style="stop-color:#c95b1b;stop-opacity:0.90178573;"
+         offset="1"
+         id="stop4151-2-7" />
+    </linearGradient>
+    <linearGradient
+       y2="157.36218"
+       x2="117.16785"
+       y1="86.362183"
+       x1="114.39593"
+       spreadMethod="pad"
+       gradientTransform="matrix(0.71350127,0,0,1.000061,202.03267,-16.58308)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4238"
+       xlink:href="#linearGradient4145-5-7"
+       inkscape:collect="always" />
+    <filter
+       inkscape:collect="always"
+       id="filter4277">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.72625"
+         id="feGaussianBlur4279" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4277-2">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.72625"
+         id="feGaussianBlur4279-3" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4277-2-7">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.72625"
+         id="feGaussianBlur4279-3-0" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4145-4"
+       id="linearGradient4171-2"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.7135012,0,0,1.0000611,-5.8128862,-17.011655)"
+       spreadMethod="pad"
+       x1="114.39593"
+       y1="86.362183"
+       x2="117.16785"
+       y2="157.36218" />
+    <linearGradient
+       id="linearGradient4145-4">
+      <stop
+         id="stop4147-1"
+         offset="0"
+         style="stop-color:#c96a30;stop-opacity:0.52678573;" />
+      <stop
+         style="stop-color:#c95b1b;stop-opacity:0.90178573;"
+         offset="1"
+         id="stop4151-7" />
+    </linearGradient>
+    <linearGradient
+       y2="157.36218"
+       x2="117.16785"
+       y1="86.362183"
+       x1="114.39593"
+       spreadMethod="pad"
+       gradientTransform="matrix(4.2821687,0,0,0.24595581,-284.97321,292.04623)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4344"
+       xlink:href="#linearGradient4145-4"
+       inkscape:collect="always" />
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4277-1">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.72625"
+         id="feGaussianBlur4279-4" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4277-1-0">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.72625"
+         id="feGaussianBlur4279-4-3" />
+    </filter>
+    <linearGradient
+       y2="157.36218"
+       x2="117.16785"
+       y1="86.362183"
+       x1="114.39593"
+       spreadMethod="pad"
+       gradientTransform="matrix(4.2821687,0,0,0.24595581,-284.97321,286.38938)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4344-7"
+       xlink:href="#linearGradient4145-4-0"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4145-4-0">
+      <stop
+         id="stop4147-1-9"
+         offset="0"
+         style="stop-color:#c96a30;stop-opacity:0.52678573;" />
+      <stop
+         style="stop-color:#c95b1b;stop-opacity:0.90178573;"
+         offset="1"
+         id="stop4151-7-1" />
+    </linearGradient>
+    <linearGradient
+       y2="157.36218"
+       x2="117.16785"
+       y1="86.362183"
+       x1="114.39593"
+       spreadMethod="pad"
+       gradientTransform="matrix(4.2821687,0,0,0.24595581,-285.97618,362.64088)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4411"
+       xlink:href="#linearGradient4145-4-0"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="157.36218"
+       x2="117.16785"
+       y1="86.362183"
+       x1="114.39593"
+       spreadMethod="pad"
+       gradientTransform="matrix(4.2821687,0,0,0.24595581,-285.97618,385.9754)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4411-6"
+       xlink:href="#linearGradient4145-4-0-8"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4145-4-0-8">
+      <stop
+         id="stop4147-1-9-9"
+         offset="0"
+         style="stop-color:#c96a30;stop-opacity:0.52678573;" />
+      <stop
+         style="stop-color:#c95b1b;stop-opacity:0.90178573;"
+         offset="1"
+         id="stop4151-7-1-0" />
+    </linearGradient>
+    <linearGradient
+       y2="157.36218"
+       x2="117.16785"
+       y1="86.362183"
+       x1="114.39593"
+       spreadMethod="pad"
+       gradientTransform="matrix(1.7792366,0,0,0.20816043,-84.633229,570.7259)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4455"
+       xlink:href="#linearGradient4145-4-0-8"
+       inkscape:collect="always" />
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4277-1-0-9">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.72625"
+         id="feGaussianBlur4279-4-3-8" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4277-1-0-9-5">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.72625"
+         id="feGaussianBlur4279-4-3-8-6" />
+    </filter>
+    <linearGradient
+       y2="157.36218"
+       x2="117.16785"
+       y1="86.362183"
+       x1="114.39593"
+       spreadMethod="pad"
+       gradientTransform="matrix(1.7792366,0,0,0.20816043,-83.926122,477.38781)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4455-8"
+       xlink:href="#linearGradient4145-4-0-8-6"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4145-4-0-8-6">
+      <stop
+         id="stop4147-1-9-9-3"
+         offset="0"
+         style="stop-color:#c96a30;stop-opacity:0.52678573;" />
+      <stop
+         style="stop-color:#c95b1b;stop-opacity:0.90178573;"
+         offset="1"
+         id="stop4151-7-1-0-3" />
+    </linearGradient>
+    <linearGradient
+       y2="157.36218"
+       x2="117.16785"
+       y1="86.362183"
+       x1="114.39593"
+       spreadMethod="pad"
+       gradientTransform="matrix(1.7792366,0,0,0.20816043,-85.311962,627.24419)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4539"
+       xlink:href="#linearGradient4145-4-0-8-6"
+       inkscape:collect="always" />
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4277-1-0-9-5-6">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.72625"
+         id="feGaussianBlur4279-4-3-8-6-4" />
+    </filter>
+    <linearGradient
+       y2="157.36218"
+       x2="117.16785"
+       y1="86.362183"
+       x1="114.39593"
+       spreadMethod="pad"
+       gradientTransform="matrix(1.7792366,0,0,0.20816043,-84.604855,533.9061)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4539-3"
+       xlink:href="#linearGradient4145-4-0-8-6-2"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4145-4-0-8-6-2">
+      <stop
+         id="stop4147-1-9-9-3-6"
+         offset="0"
+         style="stop-color:#c96a30;stop-opacity:0.52678573;" />
+      <stop
+         style="stop-color:#c95b1b;stop-opacity:0.90178573;"
+         offset="1"
+         id="stop4151-7-1-0-3-9" />
+    </linearGradient>
+    <linearGradient
+       y2="157.36218"
+       x2="117.16785"
+       y1="86.362183"
+       x1="114.39593"
+       spreadMethod="pad"
+       gradientTransform="matrix(1.7792366,0,0,0.20816043,116.21347,570.67563)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4588"
+       xlink:href="#linearGradient4145-4-0-8-6-2"
+       inkscape:collect="always" />
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4277-1-0-9-5-8">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.72625"
+         id="feGaussianBlur4279-4-3-8-6-3" />
+    </filter>
+    <linearGradient
+       y2="157.36218"
+       x2="117.16785"
+       y1="86.362183"
+       x1="114.39593"
+       spreadMethod="pad"
+       gradientTransform="matrix(1.7792366,0,0,0.20816043,-84.604855,533.9061)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4539-38"
+       xlink:href="#linearGradient4145-4-0-8-6-7"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4145-4-0-8-6-7">
+      <stop
+         id="stop4147-1-9-9-3-4"
+         offset="0"
+         style="stop-color:#c96a30;stop-opacity:0.52678573;" />
+      <stop
+         style="stop-color:#c95b1b;stop-opacity:0.90178573;"
+         offset="1"
+         id="stop4151-7-1-0-3-1" />
+    </linearGradient>
+    <linearGradient
+       y2="157.36218"
+       x2="117.16785"
+       y1="86.362183"
+       x1="114.39593"
+       spreadMethod="pad"
+       gradientTransform="matrix(1.7792366,0,0,0.20816043,116.21346,627.95127)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4588-5"
+       xlink:href="#linearGradient4145-4-0-8-6-7"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="157.36218"
+       x2="117.16785"
+       y1="86.362183"
+       x1="114.39593"
+       spreadMethod="pad"
+       gradientTransform="matrix(4.2821687,0,0,0.24595581,-285.97618,362.64088)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4411-1"
+       xlink:href="#linearGradient4145-4-0-7"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4145-4-0-7">
+      <stop
+         id="stop4147-1-9-4"
+         offset="0"
+         style="stop-color:#c96a30;stop-opacity:0.52678573;" />
+      <stop
+         style="stop-color:#c95b1b;stop-opacity:0.90178573;"
+         offset="1"
+         id="stop4151-7-1-09" />
+    </linearGradient>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4277-1-0-4">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.72625"
+         id="feGaussianBlur4279-4-3-88" />
+    </filter>
+    <linearGradient
+       y2="157.36218"
+       x2="117.16785"
+       y1="86.362183"
+       x1="114.39593"
+       spreadMethod="pad"
+       gradientTransform="matrix(4.2821687,0,0,0.24595581,-287.39041,438.30136)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3113"
+       xlink:href="#linearGradient4145-4-0-7"
+       inkscape:collect="always" />
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4277-1-0-9-5-8-7">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.72625"
+         id="feGaussianBlur4279-4-3-8-6-3-1" />
+    </filter>
+    <linearGradient
+       y2="157.36218"
+       x2="117.16785"
+       y1="86.362183"
+       x1="114.39593"
+       spreadMethod="pad"
+       gradientTransform="matrix(1.7792366,0,0,0.20816043,116.21346,627.95127)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4588-5-1"
+       xlink:href="#linearGradient4145-4-0-8-6-7-5"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4145-4-0-8-6-7-5">
+      <stop
+         id="stop4147-1-9-9-3-4-2"
+         offset="0"
+         style="stop-color:#c96a30;stop-opacity:0.52678573;" />
+      <stop
+         style="stop-color:#c95b1b;stop-opacity:0.90178573;"
+         offset="1"
+         id="stop4151-7-1-0-3-1-7" />
+    </linearGradient>
+    <linearGradient
+       y2="157.36218"
+       x2="117.16785"
+       y1="86.362183"
+       x1="114.39593"
+       spreadMethod="pad"
+       gradientTransform="matrix(1.7792366,0,0,0.20816043,-84.604903,681.69141)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3162"
+       xlink:href="#linearGradient4145-4-0-8-6-7-5"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="157.36218"
+       x2="117.16785"
+       y1="86.362183"
+       x1="114.39593"
+       spreadMethod="pad"
+       gradientTransform="matrix(0.71350127,0,0,1.000061,202.03267,-16.58308)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4238-9"
+       xlink:href="#linearGradient4145-5-7-0"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4145-5-7-0">
+      <stop
+         id="stop4147-3-3-2"
+         offset="0"
+         style="stop-color:#c96a30;stop-opacity:0.52678573;" />
+      <stop
+         style="stop-color:#c96225;stop-opacity:0.71372549;"
+         offset="0.5"
+         id="stop3993" />
+      <stop
+         style="stop-color:#e3c1ad;stop-opacity:0.90178573;"
+         offset="1"
+         id="stop4151-2-7-8" />
+    </linearGradient>
+    <linearGradient
+       y2="322.108"
+       x2="111.22162"
+       y1="76.463295"
+       x1="114.39593"
+       spreadMethod="pad"
+       gradientTransform="matrix(0.71350127,0,0,1.000061,354.94498,-16.102572)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3206"
+       xlink:href="#linearGradient3995"
+       inkscape:collect="always" />
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4277-2-7-5">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.72625"
+         id="feGaussianBlur4279-3-0-1" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4039">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.59403395"
+         id="feGaussianBlur4041" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4049">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.37749735"
+         id="feGaussianBlur4051" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4277-1-0-9-5-8-7-1">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.72625"
+         id="feGaussianBlur4279-4-3-8-6-3-1-7" />
+    </filter>
+    <linearGradient
+       y2="157.36218"
+       x2="117.16785"
+       y1="86.362183"
+       x1="114.39593"
+       spreadMethod="pad"
+       gradientTransform="matrix(1.7792366,0,0,0.20816043,-84.604903,681.69141)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3162-4"
+       xlink:href="#linearGradient4145-4-0-8-6-7-5-0"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient4145-4-0-8-6-7-5-0">
+      <stop
+         id="stop4147-1-9-9-3-4-2-9"
+         offset="0"
+         style="stop-color:#c96a30;stop-opacity:0.52678573;" />
+      <stop
+         style="stop-color:#c95b1b;stop-opacity:0.90178573;"
+         offset="1"
+         id="stop4151-7-1-0-3-1-7-4" />
+    </linearGradient>
+    <linearGradient
+       y2="157.36218"
+       x2="117.16785"
+       y1="86.362183"
+       x1="114.39593"
+       spreadMethod="pad"
+       gradientTransform="matrix(1.7792366,0,0,0.20816043,157.22561,707.85438)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3172"
+       xlink:href="#linearGradient4145-4-0-8-6-7-5-0"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="293.70764"
+     inkscape:cy="379.79426"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="548"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient4171);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.5341475;stroke-miterlimit:4;stroke-opacity:0.90395478;stroke-dasharray:none"
+       id="rect2985"
+       width="77.465851"
+       height="231.44269"
+       x="59.421513"
+       y="58.212261"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\vertical01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="97.273438"
+       y="163.36218"
+       id="text4153"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\vertical01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4155"
+         x="97.273438"
+         y="163.36218">Free</tspan><tspan
+         sodipodi:role="line"
+         x="97.273438"
+         y="183.36218"
+         id="tspan4157">Shipping</tspan></text>
+    <rect
+       style="fill:url(#linearGradient4191);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.53414774;stroke-miterlimit:4;stroke-opacity:0.90395478;stroke-dasharray:none"
+       id="rect2985-3"
+       width="77.465851"
+       height="231.4427"
+       x="166.82465"
+       y="58.640827"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\vertical02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="204.67657"
+       y="163.79077"
+       id="text4153-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\vertical02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="204.67657"
+         y="163.79077"
+         id="tspan4157-2">Friendly</tspan><tspan
+         sodipodi:role="line"
+         x="204.67657"
+         y="183.79077"
+         id="tspan4218">Service</tspan></text>
+    <rect
+       style="fill:url(#linearGradient4238);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.53414774;stroke-miterlimit:4;stroke-opacity:0.90395478;stroke-dasharray:none"
+       id="rect2985-3-4"
+       width="77.465851"
+       height="231.4427"
+       x="267.26706"
+       y="58.640831"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\vertical03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="305.11902"
+       y="163.79077"
+       id="text4153-2-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\vertical03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="305.11902"
+         y="163.79077"
+         id="tspan4218-1">Always</tspan><tspan
+         sodipodi:role="line"
+         x="305.11902"
+         y="183.79077"
+         id="tspan4265">Bogus!</tspan></text>
+    <rect
+       style="fill:#c94624;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.50000000000000000;stroke-miterlimit:4;stroke-opacity:0.90395477999999996;stroke-dasharray:none;opacity:0.57692308000000003;filter:url(#filter4277)"
+       id="rect4267"
+       width="62"
+       height="21"
+       x="67"
+       y="65.362183"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\vertical01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.57692309;fill:#c94624;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:0.90395478;stroke-dasharray:none;filter:url(#filter4277-2)"
+       id="rect4267-5"
+       width="62"
+       height="21"
+       x="175"
+       y="65.862183"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\vertical02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.57692309;fill:#c94624;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:0.90395478;stroke-dasharray:none;filter:url(#filter4277-2-7)"
+       id="rect4267-5-5"
+       width="62"
+       height="21"
+       x="275"
+       y="65.862183"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\vertical03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:url(#linearGradient4344);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.07880163;stroke-miterlimit:4;stroke-opacity:0.90395478;stroke-dasharray:none"
+       id="rect2985-4"
+       width="464.92117"
+       height="56.9212"
+       x="106.53943"
+       y="310.54688"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\banner01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.57692309;fill:#c94624;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:0.90395478;stroke-dasharray:none;filter:url(#filter4277-1)"
+       id="rect4267-1"
+       width="62"
+       height="21"
+       x="147"
+       y="314.86218"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\banner01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.25549157,0,0,1.9499661,75.44274,-296.45154)" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Tempus Sans ITC;-inkscape-font-specification:Tempus Sans ITC"
+       x="340.97501"
+       y="353.61935"
+       id="text4387"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\banner01.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4389"
+         x="340.97501"
+         y="353.61935">Fashions!</tspan></text>
+    <rect
+       style="fill:url(#linearGradient4411);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.07880163;stroke-miterlimit:4;stroke-opacity:0.90395478;stroke-dasharray:none"
+       id="rect2985-4-4"
+       width="464.92117"
+       height="56.9212"
+       x="105.53646"
+       y="381.14148"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\banner02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.57692309;fill:#c94624;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:0.90395478;stroke-dasharray:none;filter:url(#filter4277-1-0)"
+       id="rect4267-1-8"
+       width="62"
+       height="21"
+       x="147"
+       y="314.86218"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\banner02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.25549157,0,0,1.9499661,74.439767,-225.85688)" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Tempus Sans ITC;-inkscape-font-specification:Tempus Sans ITC"
+       x="339.97202"
+       y="424.21396"
+       id="text4387-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\banner02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4389-3"
+         x="339.97202"
+         y="424.21396">Just Your Style</tspan></text>
+    <rect
+       style="fill:url(#linearGradient4455);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.82573283;stroke-miterlimit:4;stroke-opacity:0.90395478;stroke-dasharray:none"
+       id="rect2985-4-4-4"
+       width="193.17427"
+       height="48.174267"
+       x="78.039871"
+       y="586.38354"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\banner02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.57692309;fill:#c94624;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:0.90395478;stroke-dasharray:none;filter:url(#filter4277-1-0-9)"
+       id="rect4267-1-8-7"
+       width="62"
+       height="21"
+       x="147"
+       y="314.86218"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\banner02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.25549157,0,0,1.5910748,46.446381,93.219157)" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Tempus Sans ITC;-inkscape-font-specification:Tempus Sans ITC"
+       x="188.08643"
+       y="616.4668"
+       id="text4387-3-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\banner02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4389-3-4"
+         x="188.08643"
+         y="616.4668">Latest Fashions</tspan></text>
+    <rect
+       style="fill:url(#linearGradient4539);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.82573283;stroke-miterlimit:4;stroke-opacity:0.90395478;stroke-dasharray:none"
+       id="rect2985-4-4-4-5"
+       width="193.17427"
+       height="48.174267"
+       x="77.36113"
+       y="642.90186"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\banner02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.57692309;fill:#c94624;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:0.90395478;stroke-dasharray:none;filter:url(#filter4277-1-0-9-5)"
+       id="rect4267-1-8-7-6"
+       width="62"
+       height="21"
+       x="147"
+       y="314.86218"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\banner02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.25549157,0,0,1.5910748,45.767642,149.73744)" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Tempus Sans ITC;-inkscape-font-specification:Tempus Sans ITC"
+       x="187.40768"
+       y="672.98511"
+       id="text4387-3-5-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\banner02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4389-3-4-3"
+         x="187.40768"
+         y="672.98511">Best Deals</tspan></text>
+    <rect
+       style="fill:url(#linearGradient4588);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.82573283;stroke-miterlimit:4;stroke-opacity:0.90395478;stroke-dasharray:none"
+       id="rect2985-4-4-4-5-3"
+       width="193.17427"
+       height="48.174267"
+       x="278.88657"
+       y="586.33331"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\banner02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.57692309;fill:#c94624;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:0.90395478;stroke-dasharray:none;filter:url(#filter4277-1-0-9-5-6)"
+       id="rect4267-1-8-7-6-2"
+       width="62"
+       height="21"
+       x="147"
+       y="314.86218"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\banner02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.25549157,0,0,1.5910748,247.29307,93.168882)" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Tempus Sans ITC;-inkscape-font-specification:Tempus Sans ITC"
+       x="388.93314"
+       y="616.41656"
+       id="text4387-3-5-7-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\banner02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4389-3-4-3-5"
+         x="388.93314"
+         y="616.41656">Free Shipping</tspan></text>
+    <rect
+       style="fill:url(#linearGradient4588-5);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.82573283;stroke-miterlimit:4;stroke-opacity:0.90395478;stroke-dasharray:none"
+       id="rect2985-4-4-4-5-4"
+       width="193.17427"
+       height="48.174267"
+       x="278.8866"
+       y="643.60895"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\banner02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.57692309;fill:#c94624;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:0.90395478;stroke-dasharray:none;filter:url(#filter4277-1-0-9-5-8)"
+       id="rect4267-1-8-7-6-1"
+       width="62"
+       height="21"
+       x="147"
+       y="314.86218"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\banner02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.25549157,0,0,1.5910748,247.29307,150.44453)" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Tempus Sans ITC;-inkscape-font-specification:Tempus Sans ITC"
+       x="388.93314"
+       y="673.6922"
+       id="text4387-3-5-7-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\banner02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4389-3-4-3-9"
+         x="388.93314"
+         y="673.6922">Bogus! Bogus!</tspan></text>
+    <rect
+       style="fill:url(#linearGradient3113);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.07880163;stroke-miterlimit:4;stroke-opacity:0.90395478;stroke-dasharray:none"
+       id="rect2985-4-4-2"
+       width="464.92117"
+       height="56.9212"
+       x="104.12223"
+       y="456.80194"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\banner03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.57692309;fill:#c94624;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:0.90395478;stroke-dasharray:none;filter:url(#filter4277-1-0-4)"
+       id="rect4267-1-8-4"
+       width="62"
+       height="21"
+       x="147"
+       y="314.86218"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\banner03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.25549157,0,0,1.9499661,73.025544,-150.1964)" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Tempus Sans ITC;-inkscape-font-specification:Tempus Sans ITC"
+       x="338.5578"
+       y="499.87442"
+       id="text4387-3-55"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\banner03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4389-3-1"
+         x="338.5578"
+         y="499.87442">Keep Shopping!</tspan></text>
+    <rect
+       style="fill:url(#linearGradient3162);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.82573283;stroke-miterlimit:4;stroke-opacity:0.90395478;stroke-dasharray:none"
+       id="rect2985-4-4-4-5-4-6"
+       width="193.17427"
+       height="48.174267"
+       x="78.068237"
+       y="697.34906"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\banner200_05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.57692309;fill:#c94624;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:0.90395478;stroke-dasharray:none;filter:url(#filter4277-1-0-9-5-8-7)"
+       id="rect4267-1-8-7-6-1-1"
+       width="62"
+       height="21"
+       x="147"
+       y="314.86218"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\banner200_05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.25549157,0,0,1.5910748,46.474707,204.18467)" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Tempus Sans ITC;-inkscape-font-specification:Tempus Sans ITC"
+       x="188.11478"
+       y="727.43231"
+       id="text4387-3-5-7-0-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\banner200_05.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4389-3-4-3-9-2"
+         x="188.11478"
+         y="727.43231">Must...Fill...Cart...</tspan></text>
+    <rect
+       style="fill:url(#linearGradient3206);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.53414773999999990;stroke-miterlimit:4;stroke-opacity:0.90395477999999996;stroke-dasharray:none"
+       id="rect2985-3-4-3"
+       width="77.465851"
+       height="231.4427"
+       x="420.17935"
+       y="59.121342"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\vertical03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.57692309;fill:#c94624;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:0.90395478;stroke-dasharray:none;filter:url(#filter4277-2-7-5)"
+       id="rect4267-5-5-6"
+       width="62"
+       height="21"
+       x="427.91229"
+       y="65.34774"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\vertical03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="opacity:0.46190479;fill:#804d00;fill-opacity:1;stroke:none;filter:url(#filter4039)"
+       id="path4029"
+       sodipodi:sides="12"
+       sodipodi:cx="462.44781"
+       sodipodi:cy="161.40765"
+       sodipodi:r1="32.534595"
+       sodipodi:r2="16.267298"
+       sodipodi:arg1="0.83151928"
+       sodipodi:arg2="1.0933187"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 484.36812,185.44928 -14.44482,-9.59371 -0.51276,17.3329 -7.71273,-15.53082 -9.1105,14.75436 1.08599,-17.30644 -15.26711,8.22239 9.59371,-14.44483 -17.3329,-0.51275 15.53082,-7.71273 -14.75436,-9.1105 17.30644,1.08598 -8.22239,-15.26711 14.44482,9.59372 0.51276,-17.3329 7.71273,15.53081 9.1105,-14.75436 -1.08599,17.30645 15.26711,-8.2224 -9.59371,14.44483 17.3329,0.51275 -15.53082,7.71273 14.75436,9.11051 -17.30644,-1.08599 z"
+       transform="translate(-2.8284311,13.556349)" />
+    <path
+       sodipodi:type="spiral"
+       style="opacity:0.16826926;fill:#804d00;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4049)"
+       id="path4043"
+       sodipodi:cx="533.15851"
+       sodipodi:cy="159.99345"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3"
+       sodipodi:radius="30.413813"
+       sodipodi:argument="-17.302011"
+       sodipodi:t0="0"
+       d="m 533.15851,159.99345 c 0.0354,1.52449 -2.03749,0.79992 -2.5338,0.0589 -1.34497,-2.00805 0.46735,-4.45599 2.41595,-5.12652 3.48558,-1.19944 6.93082,1.55891 7.71925,4.89082 1.15705,4.8897 -2.6546,9.44942 -7.3657,10.31197 -6.27915,1.14964 -11.98491,-3.75034 -12.9047,-9.84056 -1.15746,-7.66394 4.84577,-14.52877 12.31544,-15.49743 9.04677,-1.17318 17.0774,5.94095 18.09015,14.79031 1.1935,10.42866 -7.03598,19.62902 -17.26518,20.68288 -11.81002,1.21672 -22.18264,-8.1309 -23.27561,-19.74006 -1.24189,-13.19107 9.22574,-24.73766 22.21494,-25.86833 14.57191,-1.26844 27.29369,10.32053 28.46105,24.68981 1.29599,15.95262 -11.41528,29.85049 -27.16468,31.05378"
+       transform="translate(22.627416,79.903064)" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       x="459.93973"
+       y="167.47145"
+       id="text4153-2-0-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\vertical03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="459.93973"
+         y="167.47145"
+         id="tspan4218-1-1">Always</tspan><tspan
+         sodipodi:role="line"
+         x="459.93973"
+         y="187.47145"
+         id="tspan4265-5">Bogus!</tspan></text>
+    <rect
+       style="fill:url(#linearGradient3172);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.82573283;stroke-miterlimit:4;stroke-opacity:0.90395478;stroke-dasharray:none"
+       id="rect2985-4-4-4-5-4-6-8"
+       width="193.17427"
+       height="48.174267"
+       x="319.89874"
+       y="723.51202"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\banner200_empty.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.57692309;fill:#c94624;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:0.90395478;stroke-dasharray:none;filter:url(#filter4277-1-0-9-5-8-7-1)"
+       id="rect4267-1-8-7-6-1-1-8"
+       width="62"
+       height="21"
+       x="147"
+       y="314.86218"
+       inkscape:export-filename="C:\Users\Dan\Documents\My Dropbox\Private\html\store\images\banner200_empty.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(0.25549157,0,0,1.5910748,288.30522,230.34764)" />
+  </g>
+</svg>

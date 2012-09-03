@@ -1,0 +1,95 @@
+Men
+	Shirts
+		2000
+		Denim shirt
+		European cut denim shirt 100% cotton
+		49.00
+		
+		2001
+		Plain lines shirt
+		Causal plaid shirt with blue and gray pattern
+		39.00
+		
+		2002
+		Downtown Striped Shirt
+		Vertical striped Downtown shirt 100% cotton
+		55.00
+		
+		2003
+		White Multi-Pocket Shirt
+		Dressy multi-pocket white shirt, European cut
+		
+		2004
+		Diamond Jim Shirt
+		Diamond Jim shirt cotton-synthetic blend
+		89.00
+		
+		2005
+		Slim Cut Shirt
+		Form-flattering slim-cut shirt
+		69.00
+		
+	Pants
+		1000
+		Flat-Front Pant
+		Stylish relaxed-fit pant with flat front
+		110.00
+		
+		1001
+		Worker Pant
+		Exposed zipper casual worker pant
+		79.00
+		
+		1002
+		Cargo Pant
+		Pinstriped easy-care cargo pant
+		49.00
+		
+		1003
+		Dress Slack
+		100% wool flat-front dress slack
+		79.00
+		
+		1004
+		Single-pleat pant
+		Easy-care single-pleat pant
+		65.00
+		
+		1005
+		Twill pant
+		Flared leg twill pant
+		59.00
+Women
+	Skirts
+		3000
+		Ribbon-Trim Skirt
+		Snazzy ribbon-trim skirt in synthetic blend
+		109.00
+		
+		3001
+		Pinstriped Linen Skirt
+		Snug pinstriped linen skirt
+		89.00
+		
+		3002
+		Pleated Twill Skirt
+		Stylish pleated twill skirt in yellow
+		52.00
+		
+		3003
+		Pencil Skirt
+		Modern style pencil skirt
+		110.00
+		
+		3004
+		Liquid Tiered Skirt
+		Fresh fashion in this pink dressy-casual skirt
+		115.00
+		
+	Blouses
+Boys
+	Shirts
+	Pants
+Girls
+	Tops
+	Bottoms

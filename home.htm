@@ -1,0 +1,192 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+	<title>Bogus Values: A Mock Client-Side Ecommerce Site</title>
+	<meta property="og:site_name" content="Bogus Values, a mock client-side ecommerce site">
+	<meta property="og:type" content="website"/>
+	<meta property="og:image" content="http://store.nuttle.net/images/cart.png"/>
+	<meta property="og:url" content="http://store.nuttle.net/home.htm"/>
+	<meta property="fb:admins" content="1380525755"/>
+	<link rel="stylesheet" type="text/css" href="">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+
+	<script src="js/nuthatch.core-1.0.js"></script>
+	<script src="js/nuthatch.swizzle-1.0.js"></script>
+	<script src="js/nuthatch.cookie-1.0.js"></script>
+	<script src="js/nuthatch.css-1.0.js"></script>
+	<script src="js/nuthatch.selector-1.0.js"></script>
+	<script src="js/nuthatch.event-1.0.js"></script>
+	<script src="js/nuthatch.script-1.0.js"></script>
+	<script src="js/nuthatch.console-1.0.js"></script>
+	<script src="js/nuthatch.util-1.0.js"></script>
+	<script src="js/nuthatch.http-1.0.js"></script>
+	<script src="js/nuthatch.mbox-1.0.js"></script>
+
+	<script type="text/javascript" src="js/wa.js"></script>
+	<script type="text/javascript" src="js/jquery-1.4.4.min.js"></script>
+	<script type="text/javascript" src="js/jquery.flash.js"></script>
+	<script type="text/javascript" src="js/config.js"></script>
+	<script type="text/javascript" src="js/util.js"></script>
+	<script type="text/javascript" src="js/product-ui.js"></script>
+	<script type="text/javascript" src="js/customize.js"></script>
+	<script type="text/javascript" src="js/catalog.js"></script>
+	<script type="text/javascript" src="js/cart.js"></script>
+	<script type="text/javascript" src="js/main.js"></script>
+	<script type="text/javascript" src="js/search.js"></script>
+	<script type="text/javascript" src="js/segment.js"></script>
+	<script type="text/javascript" src="js/fancybox/jquery.fancybox-1.3.4.js"></script>
+	<link rel="stylesheet" type="text/css" href="js/fancybox/jquery.fancybox-1.3.4.css">
+	<!--Foresight POC for B&S-->
+	<script>
+		var FSR = {
+			CPPS: {
+				set: function(name, val){
+					FSR.CPPS.vals[name] = val;
+				},
+				vals: {
+					campaign_id: "",
+					campaign_name: "",
+					recipe_id: "",
+					recipe_name: ""
+				}
+			}
+		}
+	</script>
+	<!-- T&T specific -->
+	<script type="text/javascript" src="js/mbox.js"></script>
+	<!-- End T&T specific -->
+	<script type="text/javascript">
+	/*
+		var mbpid = 'NUTTLE01234567890123456789012345678901234';
+		var curr = mboxFactories.get('default').getPCId().getId();
+		console.log(curr);
+		if(curr!=mbpid)
+		{
+			mboxFactories.get('default').getSessionId().forceId('NUTTLE01');
+			mboxFactories.get('default').getPCId().forceId(mbpid);
+		}
+		console.log(mboxFactories.get('default').getPCId().getId());
+		console.log(document.cookie);
+	*/
+	</script>
+	<style type="text/adobe">
+	.newStyle {
+		color: red;
+	}
+	</style>
+
+</head>
+<body>
+	<!-- T&T specific -->
+	<div class="mboxDefault"></div>
+	<script type="text/javascript">
+		var mboxargs = ["global"].concat(segment.getList());
+		mboxargs.push("test=1234");
+		mboxCreate.apply(this, mboxargs);
+/*
+		//POC to send an mbox call only once per mbox session
+		var mbox3rdPartyId = 'ABCDEFGHIJKLJMN';
+		var currSession = mboxFactoryDefault.getSessionId().getId();
+		var storedSession = mboxGetCookie('lastSession');
+		if(currSession!=storedSession){
+			mboxCreate('mboxClickTrack', 'mbox3rdPartyId=' + mbox3rdPartyId);
+		}
+		mboxSetCookie('lastSession',currSession,30*24*60*60);
+*/		
+	</script>
+	<div class="mboxDefault"></div>
+	<script type="text/javascript">
+	/*
+	var opt = util.params["option"];
+	if(!opt) opt="0";
+	//mboxCreate("discover_poc", "option=" + opt);
+	*/
+	</script>
+	<!-- End T&T specific -->
+	<!-- POC of ajax call -->
+	<div id="ad_click"></div>
+	<script>
+		mboxDefine("ad_click", "ajax_global");
+		mboxUpdate("ajax_global");
+	</script>
+	<div id="wrapper">
+		<div id="branding">
+			<div id="brandlogo">
+				<a class="internal home" href="">
+					<!-- T&T specific -->
+					<div class="mboxDefault">
+						<img src="images/logo.gif" alt="A mock client-side ecommerce store" title="A fake client-side ecommerce store">
+					</div>
+					<script type="text/javascript">mboxCreate("banner");</script>
+					<!-- End T&T specific -->
+				</a>
+			</div>
+			<div id="cartwidget">
+				<div id="carticon">
+					<a alt="Cart" class="internal cart" href="">
+						<img src="images/cart.png" width="45">
+					</a>
+				</div>
+				<div id="cartitems"></div>
+			</div>
+			<div id="topnav"></div>
+		</div>
+		<div id="leftnav" class="newStyle">
+			<p id="leftnavtitle" class="header1">Categories</p>
+			<div class="banner center"></div>
+			<ul class="navlinks"></ul>
+		</div>
+		<div id="main">
+			<div class="center banner"></div>
+		</div>
+		<div id="right">
+			<p class="header1">Promotions</p>
+			<div class="center banner"></div>
+		</div>
+		<div id="footer" class="nodisplay"></div>
+	</div>
+
+
+<!-- SiteCatalyst code version: H.24.
+Copyright 1996-2011 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript" src="http://store.nuttle.net/js/s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName=""
+s.server=""
+s.channel=""
+s.pageType=""
+s.prop1=""
+s.prop2=""
+s.prop3=""
+s.prop4=""
+s.prop5=""
+/* Conversion Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img src="http://dannuttle.122.2o7.net/b/ss/dannuttledev/1/H.24--NS/0"
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.24. -->
+
+<!--Foresight POC for B&S-->
+<script>
+	console.log(FSR.CPPS.vals);
+</script>
+
+</body>
+</html>

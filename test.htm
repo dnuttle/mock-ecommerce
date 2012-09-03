@@ -1,0 +1,44 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<script type="text/javascript" src="js/mbox_test.js"></script>
+	<script type="text/javascript">
+		var mbpid = 'NUTTLE01234567890123456789012345678901234';
+		mpbid = "NUTTLE01";
+		var curr = mboxFactories.get('default').getPCId().getId();
+		var edgeNodePatt = /\.\d\d$/;
+		var edgeNode = "";
+		if(edgeNodePatt.test(curr))	edgeNode = curr.substring(curr.length-3);
+		mbpid += edgeNode;
+		console.log("Current PCID:");
+		console.log(curr);
+		mboxFactories.get('default').getSessionId().forceId('NUTTLE01');
+		mboxFactories.get('default').getPCId().forceId(mbpid);
+		console.log("Cookies after forcing PCID:");
+		console.log(document.cookie);
+		jQuery(document).ready(function(){
+			jQuery("#originalPC").text(curr);
+			jQuery("#newPC").text(mbpid);
+			console.log("Cookies after jQuery ready event:");
+			console.log(document.cookie);
+		});
+	</script>
+</head>
+<body>
+<p id="originalPC"></p>
+<p id="newPC"></p>
+<div class="mboxDefault">
+<script>
+if(location.href.indexOf('mbox=true')!=-1)
+{
+	console.log("Cookies before global mbox call:")
+	console.log(document.cookie);
+	mboxCreate("global");
+	console.log("Cookies after global mbox call:")
+	console.log(document.cookie);
+}
+</script>
+</div>
+</body>
+</html>
